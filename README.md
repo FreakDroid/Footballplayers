@@ -1,4 +1,4 @@
-# FootballPlayer Searcher
+# FootballPlayer Searcher [![Build Status](https://travis-ci.org/FreakDroid/Intive-Footballplayers.svg?branch=master)](https://travis-ci.org/FreakDroid/Intive-Footballplayers)
 > Demo project created with React, Redux and Reselect
 
 The main idea is use React, Redux, Reselect and integrate it with Travis CI.
