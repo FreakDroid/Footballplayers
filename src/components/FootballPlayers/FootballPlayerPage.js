@@ -39,7 +39,7 @@ class FootballPlayerPage extends React.Component {
                     </div>
                 </div>
                 <div className="row">
-                    {players ? <FootballPlayerList footballPlayers={players} /> : <div>No content</div>}
+                    {players ? <FootballPlayerList footballPlayers={players} /> : <div>Loading</div>}
                 </div>
             </div>
         );
