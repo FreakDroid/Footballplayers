@@ -65,7 +65,6 @@ const filterData = createSelector(
 
     //Get the parameters if they exists
     let name = filters && filters.name;
-    console.log("Name ", name);
     let position = filters && filters.position;
     let age = filters && filters.age;
 
