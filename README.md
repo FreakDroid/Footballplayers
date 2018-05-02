@@ -18,6 +18,7 @@ To run the project:
 ```
 yarn start
 ```
+**Note** the app will be opened in the browser ```http://localhost:3000/```
 
 If you want to check the unit test:
 
@@ -36,16 +37,6 @@ yarn build
 ```
 
 Now you'll see the dist folder with all the bild.
-
-### Deploying / Publishing
-
-Push your code to a branch and send a pull request
-
-```shell
-git push origin <MY AWESOME BRANCH>
-```
-
-**Note** All pull requests merged will be deployed on Heroku dev server.
 
 ## Features
 
